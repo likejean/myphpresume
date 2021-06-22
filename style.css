@@ -1,0 +1,25 @@
+p {
+    text-align: center;
+    font-size: 150px;
+    font-family: Candara, serif;
+    margin-top: 15vh;
+    border: solid red 1px;
+    border-radius: 1em;
+    padding: 0.1em;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+button {
+    border: solid black 1px;
+    color: white;
+    font-size: 10px;
+    font-family: Candara, serif;
+    border-radius: 1em;
+    padding: 0.4em;
+    background-color: black;
+}
+
+span, form * {
+    font-size: 13px;
+    font-family: Candara, serif;
+}
